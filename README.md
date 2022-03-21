@@ -4,6 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gecko655&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![accredible](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48224117)
+[![accredible](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48224117)](https://sgq.io/Z2GKsGF)
 
 普段はPythonかRubyかBashかGolangを書いてる。
